@@ -1,2 +1,9 @@
-# Welcome-CLI
-Um programa de boas-vindas via terminal com nome do usuário. 
+# 🎉 Welcome CLI (C)
+
+Um projeto simples em C que simula uma CLI de boas-vindas com menu interativo.
+
+## 🚀 Como executar
+
+```bash
+make
+make run
